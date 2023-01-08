@@ -110,13 +110,13 @@ void inventory::add(int num, item *x)
 int main()
 {
 	//input:
-		//item number 
+		//serial number 
 	//processes:
 		//update backroom
 		//update front_store
 		//update boh 
 		//add new item in inventory(done)
-    //remove items in inventory
+    		//remove items in inventory
 		//display backroom, front_store, boh of the item(done)
 
 	inventory cvs;
